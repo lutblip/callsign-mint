@@ -21,12 +21,9 @@ SPACE ID; the Agent ID is only an eligibility check.
 
 ## One-line hand-off (copy-paste into your agent)
 
-> Read the CALLSIGN skill at <RAW_SKILL_URL> and claim a callsign for my
+> Read the CALLSIGN skill at https://raw.githubusercontent.com/lutblip/callsign-mint/main/SKILL.md and claim a callsign for my
 > wallet. Check my eligibility and name availability first, and confirm the
 > exact name with me before sending any transaction.
-
-(Repository owner: replace `<RAW_SKILL_URL>` with this file's raw URL, i.e.
-`https://raw.githubusercontent.com/lutblip/callsign-mint/main/SKILL.md`.)
 
 ## Safety
 
